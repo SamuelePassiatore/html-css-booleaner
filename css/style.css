@@ -45,3 +45,23 @@ header{
     color: grey;
     font-size: smaller;
 }
+
+/* MAIN IMAGES */
+.images{
+max-width: 100%;
+margin-top: 20px;
+}
+
+#first-image{
+  height: 10%;
+  max-width: 35%;  
+}
+
+#second-image{
+    height: 10%;
+    max-width: 35%;  
+}
+
+.image-description{
+    font-size: x-small;
+}
