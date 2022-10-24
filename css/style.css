@@ -76,7 +76,7 @@ header{
     font-size: small;
 }
 
-#yellow-text{
+#yellow-text, #yellow-text-2{
     background: yellow;
 }
 
