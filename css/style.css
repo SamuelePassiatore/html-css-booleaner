@@ -85,3 +85,22 @@ header{
     margin-left: 10px;
     font-size: smaller;
 }
+
+.table{
+    margin-top: 10px;
+    height: auto;
+    font-size:small;
+    border-spacing: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+#header-table{
+    background-color: #3995db;
+    text-align: left;
+    color: white;
+}
+
+#body-table{
+    background-color: #b1e5f2;
+}
