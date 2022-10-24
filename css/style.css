@@ -104,3 +104,33 @@ header{
 #body-table{
     background-color: #b1e5f2;
 }
+
+/* FOOTER */
+.final{
+    margin-top: 20px;
+}
+
+#final-text{
+    color: grey;
+}
+
+#final-image-1{
+    margin-top: 10px;
+    background-image: url(../img/monitor.jpg);
+    height: 130px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 10px;
+}
+
+#final-image-2{
+    margin-top: 10px;
+    background-image: url(../img/graph.jpg);
+    height: 130px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
