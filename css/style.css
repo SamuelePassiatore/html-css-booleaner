@@ -48,20 +48,22 @@ header{
 
 /* MAIN IMAGES */
 .images{
-max-width: 100%;
-margin-top: 20px;
-}
-
-#first-image{
-  height: 10%;
-  max-width: 35%;  
-}
-
-#second-image{
-    height: 10%;
-    max-width: 35%;  
-}
-
-.image-description{
-    font-size: x-small;
-}
+    max-width: 100%;
+    margin-top: 20px;
+    }
+    
+    #first-image{
+      height: 10%;
+      max-width: 35%;  
+    }
+    
+    #second-image{
+        height: 10%;
+        max-width: 35%;  
+    }
+    
+    #image-description{
+        font-size: x-small;
+    }
+    
+    
