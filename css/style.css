@@ -5,7 +5,7 @@
 }
 
 .container{
-    width: 70%;
+    width: 1080px;
     margin: 0 auto;
 }
 
@@ -24,12 +24,12 @@ header{
 }
 
 /* MAIN TITLE*/
-.title{
-    margin-top: 20px;
+h1{
+font-size: xx-large;
 }
 
-.grey{
-    color: grey;
+.title{
+    margin-top: 20px;
 }
 
 #grey{
@@ -49,25 +49,14 @@ header{
 
 /* MAIN IMAGES */
 .images{
-    max-width: 100%;
+    width: 1080px;
     margin-top: 20px;
     }
-    
-    #first-image{
-      height: 10%;
-      max-width: 35%;  
-    }
-    
-    #second-image{
-        height: 10%;
-        max-width: 35%;  
-    }
-    
-    #image-description{
-        font-size: x-small;
-    }
-    
-    
+
+#image-description{
+    font-size: x-small;
+}
+
 /* MAIN TEXT AND TABLE */
 .text-with-table{
     margin-top: 20px;
