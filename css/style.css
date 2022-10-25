@@ -13,13 +13,14 @@
 header{
     background-color:#4ea0ff;
     background-image: url("../img/pattern.png");
-    background-repeat: repeat;
-    height: 70px;
+    background-size: 30%;
+    height: 100px;
+    line-height: 100px;
 }
 
-.logo{
-    height:auto;
-    width: 30%;
+#logo{
+    height: 50px;
+    vertical-align: middle;
 }
 
 /* MAIN TITLE*/
